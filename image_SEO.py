@@ -1,6 +1,6 @@
 import os
 
-new_filename = 'example title for image'
+new_filename = 'Example title for images'
 count = 0
 image_file = './images'
 for filename in os.listdir(image_file):
